@@ -1,0 +1,6 @@
+F:\Escritorio\C# Nivel 2\TPFinalNivel2_Otero\Dominio\bin\Debug\Dominio.dll
+F:\Escritorio\C# Nivel 2\TPFinalNivel2_Otero\Dominio\bin\Debug\Dominio.pdb
+F:\Escritorio\C# Nivel 2\TPFinalNivel2_Otero\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+F:\Escritorio\C# Nivel 2\TPFinalNivel2_Otero\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+F:\Escritorio\C# Nivel 2\TPFinalNivel2_Otero\Dominio\obj\Debug\Dominio.dll
+F:\Escritorio\C# Nivel 2\TPFinalNivel2_Otero\Dominio\obj\Debug\Dominio.pdb

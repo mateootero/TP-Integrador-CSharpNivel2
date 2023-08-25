@@ -1,0 +1,9 @@
+F:\Escritorio\C# Nivel 2\TPFinalNivel2_Otero\Negocio\bin\Debug\Negocio.dll
+F:\Escritorio\C# Nivel 2\TPFinalNivel2_Otero\Negocio\bin\Debug\Negocio.pdb
+F:\Escritorio\C# Nivel 2\TPFinalNivel2_Otero\Negocio\bin\Debug\Dominio.dll
+F:\Escritorio\C# Nivel 2\TPFinalNivel2_Otero\Negocio\bin\Debug\Dominio.pdb
+F:\Escritorio\C# Nivel 2\TPFinalNivel2_Otero\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+F:\Escritorio\C# Nivel 2\TPFinalNivel2_Otero\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+F:\Escritorio\C# Nivel 2\TPFinalNivel2_Otero\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+F:\Escritorio\C# Nivel 2\TPFinalNivel2_Otero\Negocio\obj\Debug\Negocio.dll
+F:\Escritorio\C# Nivel 2\TPFinalNivel2_Otero\Negocio\obj\Debug\Negocio.pdb

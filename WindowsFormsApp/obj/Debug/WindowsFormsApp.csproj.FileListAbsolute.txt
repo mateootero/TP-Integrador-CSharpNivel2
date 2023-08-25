@@ -1,0 +1,17 @@
+F:\Escritorio\C# Nivel 2\TPFinalNivel2_Otero\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+F:\Escritorio\C# Nivel 2\TPFinalNivel2_Otero\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+F:\Escritorio\C# Nivel 2\TPFinalNivel2_Otero\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+F:\Escritorio\C# Nivel 2\TPFinalNivel2_Otero\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+F:\Escritorio\C# Nivel 2\TPFinalNivel2_Otero\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+F:\Escritorio\C# Nivel 2\TPFinalNivel2_Otero\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+F:\Escritorio\C# Nivel 2\TPFinalNivel2_Otero\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+F:\Escritorio\C# Nivel 2\TPFinalNivel2_Otero\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+F:\Escritorio\C# Nivel 2\TPFinalNivel2_Otero\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+F:\Escritorio\C# Nivel 2\TPFinalNivel2_Otero\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+F:\Escritorio\C# Nivel 2\TPFinalNivel2_Otero\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+F:\Escritorio\C# Nivel 2\TPFinalNivel2_Otero\WindowsFormsApp\bin\Debug\Dominio.dll
+F:\Escritorio\C# Nivel 2\TPFinalNivel2_Otero\WindowsFormsApp\bin\Debug\Dominio.pdb
+F:\Escritorio\C# Nivel 2\TPFinalNivel2_Otero\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CopyComplete
+F:\Escritorio\C# Nivel 2\TPFinalNivel2_Otero\WindowsFormsApp\bin\Debug\Negocio.dll
+F:\Escritorio\C# Nivel 2\TPFinalNivel2_Otero\WindowsFormsApp\bin\Debug\Negocio.pdb
+F:\Escritorio\C# Nivel 2\TPFinalNivel2_Otero\WindowsFormsApp\obj\Debug\WindowsFormsApp.frmAltaArticulo.resources
